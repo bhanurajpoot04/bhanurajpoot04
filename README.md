@@ -83,6 +83,6 @@
 
 - 💼 LinkedIn: [bhanu-pratap-singh-rajpoot](https://www.linkedin.com/in/bhanu-pratap-singh-rajpoot-9248b8294/)
 - 📧 Email: [bhanupratapsinghrajpoot62@gmail.com](mailto:bhanupratapsinghrajpoot62@gmail.com)
-- - 🌐 Portfolio: [bhanurajpoot04.github.io](https://bhanurajpoot04.github.io)
+-  🌐 Portfolio: [bhanurajpoot04.github.io](https://bhanurajpoot04.github.io)
 
 <p align="center"><i>I learn by building, solving real problems and pushing what the hardware can do.</i></p>
