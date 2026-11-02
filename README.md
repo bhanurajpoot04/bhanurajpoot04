@@ -79,7 +79,7 @@
 - **R&D Engineer**, ROBOTWALA, Indore · Jul 2026 – Present
 - **R&D Intern**, ROBOTWALA, Indore · Apr – Jun 2026
 - **STM32 Training**, Contrive Technologies, at Acropolis · Sep – Oct 2026
-- **LLM Training** (7-day hands-on workshop), E-Skills, at Acropolis: Gemini API, RAG with ChromaDB, prompt engineering and an AI quiz generator
+- **LLM Training** (7-day hands-on workshop), E-Skills Web, at Acropolis: Gemini API, RAG with ChromaDB, prompt engineering and an AI quiz generator
 - **Smart Traffic System (Traffic Robot) Workshop**, E-Skills Web, at Acropolis: Python, OpenCV and YOLOv8 vehicle detection
 - **Summer Industrial Training**, Acropolis Institute of Technology & Research · Jul – Dec 2025
 - **Secretary** (Dec 2024 – Dec 2025) and **Member** (Dec 2025 – Present), IEEE AP-S Student Branch, AITR
