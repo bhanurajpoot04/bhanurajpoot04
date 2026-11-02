@@ -19,7 +19,7 @@
 - 🤖 At work I build automation and IoT systems with **Raspberry Pi 4/5 and ESP32**, and design, assemble and test custom robot hardware.
 - 🎓 Final-year **Electronics & Communication** student at Acropolis Institute of Technology & Research, Indore (2023 – 2027).
 - 📡 Former **Secretary** of the IEEE AP-S Student Branch, AITR (2025).
-- 🌱 Learning: building applications with LLMs (Gemini API, RAG), PCB design with KiCad, and FreeRTOS on STM32.
+- 🌱 Learning: building applications with LLMs (Gemini API, RAG, prompt engineering), PCB design with KiCad, and FreeRTOS on STM32.
 - 📍 Dewas / Indore, Madhya Pradesh, India
 
 ## 🛠️ Tech stack
@@ -79,6 +79,8 @@
 - **R&D Engineer**, ROBOTWALA, Indore · Jul 2026 – Present
 - **R&D Intern**, ROBOTWALA, Indore · Apr – Jun 2026
 - **STM32 Training**, Contrive Technologies, at Acropolis · Sep – Oct 2026
+- **LLM Training** (7-day hands-on workshop), E-Skills, at Acropolis: Gemini API, RAG with ChromaDB, prompt engineering and an AI quiz generator
+- **Smart Traffic System (Traffic Robot) Workshop**, E-Skills Web, at Acropolis: Python, OpenCV and YOLOv8 vehicle detection
 - **Summer Industrial Training**, Acropolis Institute of Technology & Research · Jul – Dec 2025
 - **Secretary** (Dec 2024 – Dec 2025) and **Member** (Dec 2025 – Present), IEEE AP-S Student Branch, AITR
 - **C++ Intern**, Codsoft · completed Dec 2024
