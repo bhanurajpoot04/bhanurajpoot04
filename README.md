@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhanu Pratap Singh Rajpoot 👋</h1>
 
 <p align="center">
-  <b>R&D Engineer</b> at ROBOTWALA, Indore<br>
+  <b>Final-year B.Tech ECE student</b> · Open to work<br>
   I build robotic, embedded and computer-vision systems on Raspberry Pi, ESP32, STM32 and Arduino.
 </p>
 
@@ -15,9 +15,10 @@
 
 ## 👨‍💻 About me
 
-- 🔧 R&D Engineer at **ROBOTWALA** (Jul 2026 – Present). I joined as an R&D intern in Apr 2026 and moved to a full-time role based on my project work.
-- 🤖 At work I build automation and IoT systems with **Raspberry Pi 4/5 and ESP32**, and design, assemble and test custom robot hardware.
-- 🎓 Final-year **Electronics & Communication** student at Acropolis Institute of Technology & Research, Indore (2023 – 2027).
+- 🎓 Final-year **B.Tech Electronics & Communication** student at Acropolis Institute of Technology & Research, Indore (2023 – 2027).
+- 💼 Open to job roles in robotics, embedded systems and IoT.
+- 🔧 Previously **R&D Engineer at ROBOTWALA**, Indore (Apr – Nov 2026). I started as an R&D intern and moved to a full-time role based on my project work.
+- 🤖 There I built automation and IoT systems with **Raspberry Pi 4/5 and ESP32**, and designed, assembled and tested custom robot hardware.
 - 📡 Former **Secretary** of the IEEE AP-S Student Branch, AITR (2025).
 - 🌱 Learning: building applications with LLMs (Gemini API, RAG, prompt engineering), PCB design with KiCad, and FreeRTOS on STM32.
 - 📍 Dewas / Indore, Madhya Pradesh, India
@@ -76,7 +77,7 @@
 
 ## 🧭 Experience
 
-- **R&D Engineer**, ROBOTWALA, Indore · Jul 2026 – Present
+- **R&D Engineer**, ROBOTWALA, Indore · Jul – Nov 2026
 - **R&D Intern**, ROBOTWALA, Indore · Apr – Jun 2026
 - **Secretary** (Dec 2024 – Dec 2025) and **Member** (Dec 2025 – Present), IEEE AP-S Student Branch, AITR
 - **Summer Industrial Training**, Acropolis Institute of Technology & Research · Jul – Dec 2025
